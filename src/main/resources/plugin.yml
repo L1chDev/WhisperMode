@@ -1,0 +1,12 @@
+name: WhisperMode
+version: '${project.version}'
+main: ua.lich.coding.whispermode.WhisperMode
+api-version: '1.20'
+softdepend:
+  - LuckPerms
+commands:
+  whisper:
+    usage: /<command> [player] [message]
+    description: Whispers to another player
+    aliases: [w, m, msg, tell, pm, t]
+    permission: whispermode.whisper

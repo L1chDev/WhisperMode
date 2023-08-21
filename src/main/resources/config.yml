@@ -1,0 +1,6 @@
+usage-command: "&cUsage: &d/whisper <ИГРОК> <СООБЩЕНИЕ>"
+player-no-exist: "&cPlayer doesn't exist."
+player-name-color: "&b"
+
+outgoing-message: "&7&l[&b&lPM&l&7&l] &cfor "
+incoming-message: "&7&l[&b&lPM&l&7&l] &afrom "
